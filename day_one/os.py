@@ -9,4 +9,5 @@ def disk_usage(path):
     print('{0:<7}'.format(total), path)
     return total
 
-disk_usage('../lecture3')
+# disk_usage('/home/marcus/Documents/')
+
