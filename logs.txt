@@ -1,0 +1,25 @@
+Values from the range : 0
+Values from the range : 1
+Values from the range : 2
+Values from the range : 3
+Values from the range : 4
+values from counting:0
+values from counting:1
+values from counting:2
+values from counting:3
+values from counting:4
+values from counting:5
+values from counting:6
+values from counting:7
+values from counting:8
+values from counting:9
+values from counting:10
+values from counting:11
+values from counting:12
+values from counting:13
+values from counting:14
+values from counting:15
+values from counting:16
+values from counting:17
+values from counting:18
+values from counting:19
