@@ -14,7 +14,6 @@ class MyQueue:
 
     def first(self):
         first = self._data[0]
-        self._data = self._data[1:]
         return first
     
     def is_empty(self):
