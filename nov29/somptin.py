@@ -16,3 +16,9 @@ if C:
     print("yes")
 else:
     print("NO")
+
+class Connar:
+    pass
+
+Cc = Connar()
+print(Cc.attribute)
