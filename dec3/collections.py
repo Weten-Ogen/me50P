@@ -10,10 +10,10 @@ from collections import deque
 #  Counter
 a = "aaabbbbbccccdddd"
 my_counter = Counter(a)
-print(f"Counter : {my_counter.most_common()}")
-print(f"Counter : {list(my_counter.elements())}")
+print(f"Counter'most_common' : {my_counter.most_common()}")
+print(f"Counter'elements' : {list(my_counter.elements())}")
 
-# nametupe
+# namedtuple
 Points = namedtuple('Points', 'x y')
 pt = Points(1, -4)
 print(f"Nametuple: {pt}")
